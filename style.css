@@ -1,0 +1,15 @@
+body {
+    background-color: #fd79a8;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+button {
+    font-size: 30px;
+}
+
+input {
+    font-size: 30px;
+    height: 30px;
+}
